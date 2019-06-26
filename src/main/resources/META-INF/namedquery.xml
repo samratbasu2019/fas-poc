@@ -5,7 +5,6 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence/orm
                                      http://xmlns.jcp.org/xml/ns/persistence/orm_2_0.xsd"
 	version="2.1">
-
 	<!-- JPA Named Queries -->
 	<named-native-query name="getPhrase">
 		<query>SELECT * FROM Phrase</query>

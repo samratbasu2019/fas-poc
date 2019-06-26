@@ -12,7 +12,6 @@ import org.springframework.context.annotation.ComponentScan;
  * 
  * @param <T>
  ******************************************************************************/
-
 @SpringBootApplication
 @EnableAutoConfiguration
 @ComponentScan({"com.org.infy.fas.poc"})

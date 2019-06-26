@@ -18,7 +18,6 @@ import com.org.infy.fas.poc.service.FASService;
  * @param <T>
  ******************************************************************************/
 
-
 @RestController
 @RequestMapping(value = "/fas")
 public class FASController {
